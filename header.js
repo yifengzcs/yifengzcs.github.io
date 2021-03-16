@@ -5,7 +5,7 @@ document.write('\
         Yifeng ZHENG<br/>\
         <span>Assistant Professor</span><br/>\
         <span class="address"><a href="http://cs.hitsz.edu.cn/" target="_blank">School of Computer Science and Technology</a></span><br/>\
-        <span class="address"><a href="http://www.hitsz.edu.cn/index.html" target="_blank">Harbin Institute of Technology</a></span><br/>\<br/>\
+        <span class="address"><a href="http://www.hitsz.edu.cn/index.html" target="_blank">Harbin Institute of Technology (HIT)</a></span><br/>\<br/>\
         <span class="address"><strong>Email:&nbsp;</strong>name DOT surname AT my.cityu.edu.hk </span><br/><br/>\
         <span class="address"><a href="https://scholar.google.com/citations?user=QtAO6K0AAAAJ&hl=en">Google Scholar</a></span><br/> \
       </div>\
