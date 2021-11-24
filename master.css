@@ -287,7 +287,8 @@ body.about .bmenu li#about,
 body.publications .bmenu li#publications,
 body.teaching .bmenu li#teaching,
 body.honors .bmenu li#honors,
-body.service .bmenu li#service {
+body.service .bmenu li#service,
+body.students .bmenu li#students, {
   font-weight: bold;
 }
 
@@ -295,7 +296,8 @@ body.about .bmenu li#about a,
 body.publications .bmenu li#publications a,
 body.teaching .bmenu li#teaching a,
 body.honors .bmenu li#honors a,
-body.service .bmenu li#service a {
+body.service .bmenu li#service a,
+body.students .bmenu li#students a {
   color: black;
   border-bottom: 5px solid black !important;
 }
