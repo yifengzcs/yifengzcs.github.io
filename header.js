@@ -14,7 +14,7 @@ document.write('\
         <ul class="bmenu">\
           <li id="about"><a href="index.html">About</a></li><!--\
           --><li id="publications"><a\
-          href="publications.html">Publications</a></li><!--\
+          href="publications.html">Selected Publications</a></li><!--\
           --><li id="teaching"><a\
           href="teaching.html">Teaching</a></li><!--\
           --><li id="honors"><a href="honors.html">Honors</a></li><!--\
