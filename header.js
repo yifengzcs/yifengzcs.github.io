@@ -18,7 +18,8 @@ document.write('\
           --><li id="teaching"><a\
           href="teaching.html">Teaching</a></li><!--\
           --><li id="honors"><a href="honors.html">Honors</a></li><!--\
-          --><li id="service"><a href="service.html">Services</a></li>\
+          --><li id="service"><a href="service.html">Services</a></li><!--\
+          --><li id="people"><a href="people.html">People</a></li>\
         </ul>\
       </div> <!-- bmenu-container -->\
     </div> <!-- header -->\
