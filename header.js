@@ -1,6 +1,6 @@
 document.write('\
     <div id="header">\
-      <img id="kyle" src="yifengz.jpg"><br>\
+      <img id="kyle" src="yifeng-new.png"><br>\
       <div id=title>\
         Yifeng ZHENG<br/>\
         <span>Assistant Professor</span><br/>\
